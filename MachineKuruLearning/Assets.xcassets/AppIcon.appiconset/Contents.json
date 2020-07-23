@@ -20,3 +20,8 @@
       "idiom" : "mac",
       "size" : "32x32",
       "scale" : "2x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "128x128",
+      "scale" : "1x"
