@@ -47,3 +47,8 @@
       "scale" : "1x"
     },
     {
+      "idiom" : "mac",
+      "size" : "512x512",
+      "scale" : "2x"
+    }
+  ],
