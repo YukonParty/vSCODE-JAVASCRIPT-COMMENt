@@ -15,3 +15,6 @@
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <menu key="submenu" title="MachineKuruLearning" systemMenu="apple" id="uQy-DD-JDr">
                                     <items>
+                                        <menuItem title="About MachineKuruLearning" id="5kV-Vb-QxS">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <connections>
