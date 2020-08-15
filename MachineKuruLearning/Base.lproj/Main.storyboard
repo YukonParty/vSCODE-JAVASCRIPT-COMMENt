@@ -52,3 +52,5 @@
                                                 <action selector="terminate:" target="Ady-hI-5gd" id="Te7-pn-YzF"/>
                                             </connections>
                                         </menuItem>
+                                    </items>
+                                </menu>
