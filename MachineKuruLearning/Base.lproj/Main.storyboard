@@ -79,3 +79,6 @@
                                                             <action selector="clearRecentDocuments:" target="Ady-hI-5gd" id="Daa-9d-B3U"/>
                                                         </connections>
                                                     </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
