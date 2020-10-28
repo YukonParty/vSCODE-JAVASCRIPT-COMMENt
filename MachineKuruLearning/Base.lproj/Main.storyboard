@@ -131,3 +131,4 @@
                                             <connections>
                                                 <action selector="redo:" target="Ady-hI-5gd" id="oIA-Rs-6OD"/>
                                             </connections>
+                                        </menuItem>
