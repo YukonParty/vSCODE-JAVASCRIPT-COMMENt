@@ -156,3 +156,7 @@
                                         </menuItem>
                                         <menuItem title="Delete" id="pa3-QI-u2k">
                                             <modifierMask key="keyEquivalentModifierMask"/>
+                                            <connections>
+                                                <action selector="delete:" target="Ady-hI-5gd" id="0Mk-Ml-PaM"/>
+                                            </connections>
+                                        </menuItem>
