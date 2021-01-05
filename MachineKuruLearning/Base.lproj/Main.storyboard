@@ -189,3 +189,6 @@
                                                     <menuItem title="Find Previous" tag="3" keyEquivalent="G" id="OwM-mh-QMV">
                                                         <connections>
                                                             <action selector="performFindPanelAction:" target="Ady-hI-5gd" id="HOh-sY-3ay"/>
+                                                        </connections>
+                                                    </menuItem>
+                                                    <menuItem title="Use Selection for Find" tag="7" keyEquivalent="e" id="buJ-ug-pKt">
