@@ -199,3 +199,5 @@
                                                     <menuItem title="Jump to Selection" keyEquivalent="j" id="S0p-oC-mLd">
                                                         <connections>
                                                             <action selector="centerSelectionInVisibleArea:" target="Ady-hI-5gd" id="IOG-6D-g5B"/>
+                                                        </connections>
+                                                    </menuItem>
