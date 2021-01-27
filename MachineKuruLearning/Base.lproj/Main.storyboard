@@ -227,3 +227,7 @@
                                                     </menuItem>
                                                     <menuItem title="Check Grammar With Spelling" id="mK6-2p-4JG">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <connections>
+                                                            <action selector="toggleGrammarChecking:" target="Ady-hI-5gd" id="muD-Qn-j4w"/>
+                                                        </connections>
+                                                    </menuItem>
