@@ -238,3 +238,6 @@
                                                         </connections>
                                                     </menuItem>
                                                 </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Substitutions" id="9ic-FL-obx">
