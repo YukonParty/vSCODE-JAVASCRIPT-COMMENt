@@ -259,3 +259,6 @@
                                                     </menuItem>
                                                     <menuItem title="Smart Quotes" id="hQb-2v-fYv">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <connections>
+                                                            <action selector="toggleAutomaticQuoteSubstitution:" target="Ady-hI-5gd" id="ptq-xd-QOA"/>
+                                                        </connections>
