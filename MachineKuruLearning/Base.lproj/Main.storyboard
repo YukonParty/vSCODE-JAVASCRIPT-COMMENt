@@ -271,3 +271,7 @@
                                                     </menuItem>
                                                     <menuItem title="Smart Links" id="cwL-P1-jid">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <connections>
+                                                            <action selector="toggleAutomaticLinkDetection:" target="Ady-hI-5gd" id="Gip-E3-Fov"/>
+                                                        </connections>
+                                                    </menuItem>
