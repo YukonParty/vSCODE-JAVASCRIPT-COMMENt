@@ -303,3 +303,8 @@
                                                     <menuItem title="Make Lower Case" id="d9M-CD-aMd">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                         <connections>
+                                                            <action selector="lowercaseWord:" target="Ady-hI-5gd" id="iUZ-b5-hil"/>
+                                                        </connections>
+                                                    </menuItem>
+                                                    <menuItem title="Capitalize" id="UEZ-Bs-lqG">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
