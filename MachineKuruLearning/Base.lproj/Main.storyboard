@@ -325,3 +325,4 @@
                                                             <action selector="startSpeaking:" target="Ady-hI-5gd" id="654-Ng-kyl"/>
                                                         </connections>
                                                     </menuItem>
+                                                    <menuItem title="Stop Speaking" id="Oyz-dy-DGm">
