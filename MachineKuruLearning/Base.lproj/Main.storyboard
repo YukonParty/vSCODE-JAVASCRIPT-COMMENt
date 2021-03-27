@@ -361,3 +361,4 @@
                                                         </connections>
                                                     </menuItem>
                                                     <menuItem title="Underline" keyEquivalent="u" id="WRG-CD-K1S">
+                                                        <connections>
