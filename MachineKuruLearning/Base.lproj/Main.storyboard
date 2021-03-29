@@ -373,3 +373,5 @@
                                                     </menuItem>
                                                     <menuItem title="Smaller" tag="4" keyEquivalent="-" id="i1d-Er-qST">
                                                         <connections>
+                                                            <action selector="modifyFont:" target="YLy-65-1bz" id="HcX-Lf-eNd"/>
+                                                        </connections>
