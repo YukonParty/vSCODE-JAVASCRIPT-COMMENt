@@ -375,3 +375,4 @@
                                                         <connections>
                                                             <action selector="modifyFont:" target="YLy-65-1bz" id="HcX-Lf-eNd"/>
                                                         </connections>
+                                                    </menuItem>
