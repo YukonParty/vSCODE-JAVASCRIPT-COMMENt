@@ -389,3 +389,6 @@
                                                                 </menuItem>
                                                                 <menuItem title="Use None" id="cDB-IK-hbR">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="turnOffKerning:" target="Ady-hI-5gd" id="U8a-gz-Maa"/>
+                                                                    </connections>
