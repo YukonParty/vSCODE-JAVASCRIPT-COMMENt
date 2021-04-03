@@ -392,3 +392,4 @@
                                                                     <connections>
                                                                         <action selector="turnOffKerning:" target="Ady-hI-5gd" id="U8a-gz-Maa"/>
                                                                     </connections>
+                                                                </menuItem>
