@@ -393,3 +393,8 @@
                                                                         <action selector="turnOffKerning:" target="Ady-hI-5gd" id="U8a-gz-Maa"/>
                                                                     </connections>
                                                                 </menuItem>
+                                                                <menuItem title="Tighten" id="46P-cB-AYj">
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="tightenKerning:" target="Ady-hI-5gd" id="hr7-Nz-8ro"/>
+                                                                    </connections>
