@@ -410,3 +410,4 @@
                                                     </menuItem>
                                                     <menuItem title="Ligatures" id="o6e-r0-MWq">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <menu key="submenu" title="Ligatures" id="w0m-vy-SC9">
