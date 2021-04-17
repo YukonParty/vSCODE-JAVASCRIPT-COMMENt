@@ -420,3 +420,7 @@
                                                                 </menuItem>
                                                                 <menuItem title="Use None" id="J7y-lM-qPV">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="turnOffLigatures:" target="Ady-hI-5gd" id="iX2-gA-Ilz"/>
+                                                                    </connections>
+                                                                </menuItem>
