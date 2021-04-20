@@ -429,3 +429,6 @@
                                                                     <connections>
                                                                         <action selector="useAllLigatures:" target="Ady-hI-5gd" id="KcB-kA-TuK"/>
                                                                     </connections>
+                                                                </menuItem>
+                                                            </items>
+                                                        </menu>
