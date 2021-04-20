@@ -426,3 +426,6 @@
                                                                 </menuItem>
                                                                 <menuItem title="Use All" id="xQD-1f-W4t">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="useAllLigatures:" target="Ady-hI-5gd" id="KcB-kA-TuK"/>
+                                                                    </connections>
