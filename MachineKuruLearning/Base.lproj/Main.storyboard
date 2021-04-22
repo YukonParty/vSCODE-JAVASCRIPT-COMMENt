@@ -440,3 +440,7 @@
                                                                 <menuItem title="Use Default" id="3Om-Ey-2VK">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                     <connections>
+                                                                        <action selector="unscript:" target="Ady-hI-5gd" id="0vZ-95-Ywn"/>
+                                                                    </connections>
+                                                                </menuItem>
+                                                                <menuItem title="Superscript" id="Rqc-34-cIF">
