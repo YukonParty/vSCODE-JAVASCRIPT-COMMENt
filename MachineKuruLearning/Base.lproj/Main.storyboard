@@ -446,3 +446,10 @@
                                                                 <menuItem title="Superscript" id="Rqc-34-cIF">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                     <connections>
+                                                                        <action selector="superscript:" target="Ady-hI-5gd" id="3qV-fo-wpU"/>
+                                                                    </connections>
+                                                                </menuItem>
+                                                                <menuItem title="Subscript" id="I0S-gh-46l">
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="subscript:" target="Ady-hI-5gd" id="Q6W-4W-IGz"/>
