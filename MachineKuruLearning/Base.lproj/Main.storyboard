@@ -455,3 +455,8 @@
                                                                         <action selector="subscript:" target="Ady-hI-5gd" id="Q6W-4W-IGz"/>
                                                                     </connections>
                                                                 </menuItem>
+                                                                <menuItem title="Raise" id="2h7-ER-AoG">
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
+                                                                        <action selector="raiseBaseline:" target="Ady-hI-5gd" id="4sk-31-7Q9"/>
+                                                                    </connections>
