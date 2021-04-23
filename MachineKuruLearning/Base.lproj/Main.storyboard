@@ -453,3 +453,5 @@
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                     <connections>
                                                                         <action selector="subscript:" target="Ady-hI-5gd" id="Q6W-4W-IGz"/>
+                                                                    </connections>
+                                                                </menuItem>
