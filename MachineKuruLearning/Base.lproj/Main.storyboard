@@ -444,3 +444,5 @@
                                                                     </connections>
                                                                 </menuItem>
                                                                 <menuItem title="Superscript" id="Rqc-34-cIF">
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
