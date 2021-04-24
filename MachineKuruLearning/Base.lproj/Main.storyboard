@@ -464,3 +464,6 @@
                                                                 <menuItem title="Lower" id="1tx-W0-xDw">
                                                                     <modifierMask key="keyEquivalentModifierMask"/>
                                                                     <connections>
+                                                                        <action selector="lowerBaseline:" target="Ady-hI-5gd" id="OF1-bc-KW4"/>
+                                                                    </connections>
+                                                                </menuItem>
