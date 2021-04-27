@@ -474,3 +474,6 @@
                                                     <menuItem title="Show Colors" keyEquivalent="C" id="bgn-CT-cEk">
                                                         <connections>
                                                             <action selector="orderFrontColorPanel:" target="Ady-hI-5gd" id="mSX-Xz-DV3"/>
+                                                        </connections>
+                                                    </menuItem>
+                                                    <menuItem isSeparatorItem="YES" id="iMs-zA-UFJ"/>
