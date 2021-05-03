@@ -486,3 +486,6 @@
                                                     <menuItem title="Paste Style" keyEquivalent="v" id="vKC-jM-MkH">
                                                         <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
                                                         <connections>
+                                                            <action selector="pasteFont:" target="Ady-hI-5gd" id="JfD-CL-leO"/>
+                                                        </connections>
+                                                    </menuItem>
