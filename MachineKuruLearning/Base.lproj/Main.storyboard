@@ -489,3 +489,5 @@
                                                             <action selector="pasteFont:" target="Ady-hI-5gd" id="JfD-CL-leO"/>
                                                         </connections>
                                                     </menuItem>
+                                                </items>
+                                            </menu>
