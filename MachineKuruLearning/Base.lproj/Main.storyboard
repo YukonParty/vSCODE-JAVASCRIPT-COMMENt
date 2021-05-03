@@ -483,3 +483,6 @@
                                                             <action selector="copyFont:" target="Ady-hI-5gd" id="GJO-xA-L4q"/>
                                                         </connections>
                                                     </menuItem>
+                                                    <menuItem title="Paste Style" keyEquivalent="v" id="vKC-jM-MkH">
+                                                        <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                                        <connections>
