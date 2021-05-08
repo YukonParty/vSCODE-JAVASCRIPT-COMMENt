@@ -499,3 +499,5 @@
                                                     <menuItem title="Align Left" keyEquivalent="{" id="ZM1-6Q-yy1">
                                                         <connections>
                                                             <action selector="alignLeft:" target="Ady-hI-5gd" id="zUv-R1-uAa"/>
+                                                        </connections>
+                                                    </menuItem>
