@@ -495,3 +495,7 @@
                                         <menuItem title="Text" id="Fal-I4-PZk">
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                             <menu key="submenu" title="Text" id="d9c-me-L2H">
+                                                <items>
+                                                    <menuItem title="Align Left" keyEquivalent="{" id="ZM1-6Q-yy1">
+                                                        <connections>
+                                                            <action selector="alignLeft:" target="Ady-hI-5gd" id="zUv-R1-uAa"/>
