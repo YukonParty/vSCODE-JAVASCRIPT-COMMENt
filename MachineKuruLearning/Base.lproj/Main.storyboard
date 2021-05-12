@@ -505,3 +505,10 @@
                                                         <connections>
                                                             <action selector="alignCenter:" target="Ady-hI-5gd" id="spX-mk-kcS"/>
                                                         </connections>
+                                                    </menuItem>
+                                                    <menuItem title="Justify" id="J5U-5w-g23">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <connections>
+                                                            <action selector="alignJustified:" target="Ady-hI-5gd" id="ljL-7U-jND"/>
+                                                        </connections>
+                                                    </menuItem>
