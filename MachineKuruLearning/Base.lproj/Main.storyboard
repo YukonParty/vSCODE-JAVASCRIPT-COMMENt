@@ -501,3 +501,5 @@
                                                             <action selector="alignLeft:" target="Ady-hI-5gd" id="zUv-R1-uAa"/>
                                                         </connections>
                                                     </menuItem>
+                                                    <menuItem title="Center" keyEquivalent="|" id="VIY-Ag-zcb">
+                                                        <connections>
