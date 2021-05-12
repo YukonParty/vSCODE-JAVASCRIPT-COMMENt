@@ -503,3 +503,5 @@
                                                     </menuItem>
                                                     <menuItem title="Center" keyEquivalent="|" id="VIY-Ag-zcb">
                                                         <connections>
+                                                            <action selector="alignCenter:" target="Ady-hI-5gd" id="spX-mk-kcS"/>
+                                                        </connections>
