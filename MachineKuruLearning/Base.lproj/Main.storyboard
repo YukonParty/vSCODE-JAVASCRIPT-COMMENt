@@ -520,3 +520,9 @@
                                                     <menuItem isSeparatorItem="YES" id="4s2-GY-VfK"/>
                                                     <menuItem title="Writing Direction" id="H1b-Si-o9J">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <menu key="submenu" title="Writing Direction" id="8mr-sm-Yjd">
+                                                            <items>
+                                                                <menuItem title="Paragraph" enabled="NO" id="ZvO-Gk-QUH">
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                </menuItem>
+                                                                <menuItem id="YGs-j5-SAR">
