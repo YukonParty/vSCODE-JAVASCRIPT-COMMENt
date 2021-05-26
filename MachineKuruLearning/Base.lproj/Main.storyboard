@@ -540,3 +540,5 @@
                                                                     </connections>
                                                                 </menuItem>
                                                                 <menuItem id="jFq-tB-4Kx">
+                                                                    <string key="title">	Right to Left</string>
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
