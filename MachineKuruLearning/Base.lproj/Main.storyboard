@@ -558,3 +558,6 @@
                                                                     </connections>
                                                                 </menuItem>
                                                                 <menuItem id="BgM-ve-c93">
+                                                                    <string key="title">	Left to Right</string>
+                                                                    <modifierMask key="keyEquivalentModifierMask"/>
+                                                                    <connections>
