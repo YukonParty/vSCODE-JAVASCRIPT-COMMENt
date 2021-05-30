@@ -572,3 +572,7 @@
                                                                     </connections>
                                                                 </menuItem>
                                                             </items>
+                                                        </menu>
+                                                    </menuItem>
+                                                    <menuItem isSeparatorItem="YES" id="fKy-g9-1gm"/>
+                                                    <menuItem title="Show Ruler" id="vLm-3I-IUL">
