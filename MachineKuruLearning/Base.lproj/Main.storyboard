@@ -580,3 +580,7 @@
                                                         <connections>
                                                             <action selector="toggleRuler:" target="Ady-hI-5gd" id="FOx-HJ-KwY"/>
                                                         </connections>
+                                                    </menuItem>
+                                                    <menuItem title="Copy Ruler" keyEquivalent="c" id="MkV-Pr-PK5">
+                                                        <modifierMask key="keyEquivalentModifierMask" control="YES" command="YES"/>
+                                                        <connections>
