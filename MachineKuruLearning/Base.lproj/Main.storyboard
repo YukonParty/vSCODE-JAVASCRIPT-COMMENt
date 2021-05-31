@@ -584,3 +584,6 @@
                                                     <menuItem title="Copy Ruler" keyEquivalent="c" id="MkV-Pr-PK5">
                                                         <modifierMask key="keyEquivalentModifierMask" control="YES" command="YES"/>
                                                         <connections>
+                                                            <action selector="copyRuler:" target="Ady-hI-5gd" id="71i-fW-3W2"/>
+                                                        </connections>
+                                                    </menuItem>
