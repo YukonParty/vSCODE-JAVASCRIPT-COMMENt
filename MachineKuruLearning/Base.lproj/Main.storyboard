@@ -600,3 +600,5 @@
                                 </menu>
                             </menuItem>
                             <menuItem title="View" id="H8h-7b-M4v">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="View" id="HyV-fh-RgO">
