@@ -653,3 +653,6 @@
                                                 <action selector="arrangeInFront:" target="Ady-hI-5gd" id="DRN-fu-gQh"/>
                                             </connections>
                                         </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
