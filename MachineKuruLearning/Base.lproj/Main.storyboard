@@ -656,3 +656,5 @@
                                     </items>
                                 </menu>
                             </menuItem>
+                            <menuItem title="Help" id="wpr-3q-Mcd">
+                                <modifierMask key="keyEquivalentModifierMask"/>
