@@ -8,3 +8,5 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
