@@ -29,3 +29,5 @@
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+</dict>
+</plist>
