@@ -1,3 +1,3 @@
 //
 //  ViewController.swift
-//  MachineKuruLearn
+//  MachineKuruLearning
