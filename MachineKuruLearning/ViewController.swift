@@ -2,4 +2,4 @@
 //  ViewController.swift
 //  MachineKuruLearning
 //
-//  Created 
+//  Created by K
