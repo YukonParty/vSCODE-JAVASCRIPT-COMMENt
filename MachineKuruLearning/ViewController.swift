@@ -2,4 +2,4 @@
 //  ViewController.swift
 //  MachineKuruLearning
 //
-//  Created by Kurushetra on 21/9
+//  Created by Kurushetra on 21/9/1
