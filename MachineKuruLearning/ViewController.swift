@@ -3,4 +3,4 @@
 //  MachineKuruLearning
 //
 //  Created by Kurushetra on 21/9/17.
-//  Copyright © 2017 Kurushetr
+//  Copyright © 2017 Kurushetra.
