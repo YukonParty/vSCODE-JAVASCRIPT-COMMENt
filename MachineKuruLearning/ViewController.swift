@@ -8,4 +8,4 @@
 
 import Cocoa
 
-class Vie
+class ViewCon
