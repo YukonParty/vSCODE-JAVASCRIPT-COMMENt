@@ -8,4 +8,4 @@
 
 import Cocoa
 
-class ViewContro
+class ViewController:
