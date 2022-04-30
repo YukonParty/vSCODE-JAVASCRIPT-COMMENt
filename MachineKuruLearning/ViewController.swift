@@ -18,4 +18,4 @@ class ViewController: NSViewController {
 
     override var representedObject: Any? {
         didSet {
-        // Update the view, 
+        // Update the view, if 
