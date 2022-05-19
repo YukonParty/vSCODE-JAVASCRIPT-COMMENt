@@ -13,3 +13,8 @@
 		61FF09971F73262A007E7DD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61FF09961F73262A007E7DD8 /* Assets.xcassets */; };
 		61FF099A1F73262A007E7DD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61FF09981F73262A007E7DD8 /* Main.storyboard */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		61FF098F1F73262A007E7DD8 /* MachineKuruLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MachineKuruLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		61FF09921F73262A007E7DD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		61FF09941F73262A007E7DD8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
