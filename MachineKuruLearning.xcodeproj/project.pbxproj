@@ -18,3 +18,8 @@
 		61FF098F1F73262A007E7DD8 /* MachineKuruLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MachineKuruLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61FF09921F73262A007E7DD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61FF09941F73262A007E7DD8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		61FF09961F73262A007E7DD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		61FF09991F73262A007E7DD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		61FF099B1F73262A007E7DD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61FF099C1F73262A007E7DD8 /* MachineKuruLearning.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MachineKuruLearning.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
