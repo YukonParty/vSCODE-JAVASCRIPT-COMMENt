@@ -23,3 +23,11 @@
 		61FF099B1F73262A007E7DD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61FF099C1F73262A007E7DD8 /* MachineKuruLearning.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MachineKuruLearning.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		61FF098C1F73262A007E7DD8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
