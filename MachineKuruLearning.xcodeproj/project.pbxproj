@@ -33,3 +33,9 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		61FF09861F73262A007E7DD8 = {
+			isa = PBXGroup;
+			children = (
+				61FF09911F73262A007E7DD8 /* MachineKuruLearning */,
