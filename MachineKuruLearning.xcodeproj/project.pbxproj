@@ -39,3 +39,5 @@
 			isa = PBXGroup;
 			children = (
 				61FF09911F73262A007E7DD8 /* MachineKuruLearning */,
+				61FF09901F73262A007E7DD8 /* Products */,
+			);
