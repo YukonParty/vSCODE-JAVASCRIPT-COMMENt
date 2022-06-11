@@ -46,3 +46,7 @@
 		61FF09901F73262A007E7DD8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				61FF098F1F73262A007E7DD8 /* MachineKuruLearning.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
