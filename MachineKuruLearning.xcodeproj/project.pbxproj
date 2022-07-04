@@ -54,3 +54,5 @@
 		61FF09911F73262A007E7DD8 /* MachineKuruLearning */ = {
 			isa = PBXGroup;
 			children = (
+				61FF09921F73262A007E7DD8 /* AppDelegate.swift */,
+				61FF09941F73262A007E7DD8 /* ViewController.swift */,
