@@ -64,3 +64,8 @@
 			path = MachineKuruLearning;
 			sourceTree = "<group>";
 		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		61FF098E1F73262A007E7DD8 /* MachineKuruLearning */ = {
+			isa = PBXNativeTarget;
