@@ -62,3 +62,5 @@
 				61FF099C1F73262A007E7DD8 /* MachineKuruLearning.entitlements */,
 			);
 			path = MachineKuruLearning;
+			sourceTree = "<group>";
+		};
