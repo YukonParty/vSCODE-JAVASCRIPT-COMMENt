@@ -56,3 +56,9 @@
 			children = (
 				61FF09921F73262A007E7DD8 /* AppDelegate.swift */,
 				61FF09941F73262A007E7DD8 /* ViewController.swift */,
+				61FF09961F73262A007E7DD8 /* Assets.xcassets */,
+				61FF09981F73262A007E7DD8 /* Main.storyboard */,
+				61FF099B1F73262A007E7DD8 /* Info.plist */,
+				61FF099C1F73262A007E7DD8 /* MachineKuruLearning.entitlements */,
+			);
+			path = MachineKuruLearning;
