@@ -69,3 +69,6 @@
 /* Begin PBXNativeTarget section */
 		61FF098E1F73262A007E7DD8 /* MachineKuruLearning */ = {
 			isa = PBXNativeTarget;
+			buildConfigurationList = 61FF099F1F73262A007E7DD8 /* Build configuration list for PBXNativeTarget "MachineKuruLearning" */;
+			buildPhases = (
+				61FF098B1F73262A007E7DD8 /* Sources */,
