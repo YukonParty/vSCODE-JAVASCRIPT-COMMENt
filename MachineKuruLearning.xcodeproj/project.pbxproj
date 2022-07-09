@@ -72,3 +72,6 @@
 			buildConfigurationList = 61FF099F1F73262A007E7DD8 /* Build configuration list for PBXNativeTarget "MachineKuruLearning" */;
 			buildPhases = (
 				61FF098B1F73262A007E7DD8 /* Sources */,
+				61FF098C1F73262A007E7DD8 /* Frameworks */,
+				61FF098D1F73262A007E7DD8 /* Resources */,
+			);
