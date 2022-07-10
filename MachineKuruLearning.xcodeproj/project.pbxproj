@@ -76,3 +76,6 @@
 				61FF098D1F73262A007E7DD8 /* Resources */,
 			);
 			buildRules = (
+			);
+			dependencies = (
+			);
