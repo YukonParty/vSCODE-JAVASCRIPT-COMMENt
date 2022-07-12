@@ -79,3 +79,7 @@
 			);
 			dependencies = (
 			);
+			name = MachineKuruLearning;
+			productName = MachineKuruLearning;
+			productReference = 61FF098F1F73262A007E7DD8 /* MachineKuruLearning.app */;
+			productType = "com.apple.product-type.application";
