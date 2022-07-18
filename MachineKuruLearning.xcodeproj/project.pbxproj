@@ -100,3 +100,7 @@
 					};
 				};
 			};
+			buildConfigurationList = 61FF098A1F73262A007E7DD8 /* Build configuration list for PBXProject "MachineKuruLearning" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
