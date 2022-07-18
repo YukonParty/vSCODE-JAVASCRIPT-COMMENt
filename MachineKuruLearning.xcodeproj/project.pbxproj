@@ -95,3 +95,8 @@
 				ORGANIZATIONNAME = Kurushetra;
 				TargetAttributes = {
 					61FF098E1F73262A007E7DD8 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
