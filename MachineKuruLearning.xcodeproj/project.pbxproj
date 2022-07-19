@@ -110,3 +110,6 @@
 			);
 			mainGroup = 61FF09861F73262A007E7DD8;
 			productRefGroup = 61FF09901F73262A007E7DD8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
