@@ -113,3 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
+				61FF098E1F73262A007E7DD8 /* MachineKuruLearning */,
+			);
+		};
+/* End PBXProject section */
