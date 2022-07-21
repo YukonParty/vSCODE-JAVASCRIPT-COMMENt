@@ -117,3 +117,7 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		61FF098D1F73262A007E7DD8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
