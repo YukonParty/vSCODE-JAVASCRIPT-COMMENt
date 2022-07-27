@@ -132,3 +132,4 @@
 
 /* Begin PBXSourcesBuildPhase section */
 		61FF098B1F73262A007E7DD8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
