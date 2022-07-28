@@ -136,3 +136,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				61FF09951F73262A007E7DD8 /* ViewController.swift in Sources */,
+				61FF09931F73262A007E7DD8 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
