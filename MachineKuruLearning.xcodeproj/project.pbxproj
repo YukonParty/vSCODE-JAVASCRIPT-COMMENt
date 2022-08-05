@@ -150,3 +150,9 @@
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		61FF099D1F73262A007E7DD8 /* Debug */ = {
+			isa = XCBuildConfiguration;
