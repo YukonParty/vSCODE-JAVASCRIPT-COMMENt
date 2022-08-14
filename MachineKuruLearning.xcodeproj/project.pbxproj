@@ -213,3 +213,5 @@
 		};
 		61FF099E1F73262A007E7DD8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
