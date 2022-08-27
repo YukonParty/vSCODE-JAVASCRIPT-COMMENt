@@ -279,3 +279,6 @@
 		61FF09A11F73262A007E7DD8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = MachineKuruLearning/MachineKuruLearning.entitlements;
+				CODE_SIGN_STYLE = Automatic;
