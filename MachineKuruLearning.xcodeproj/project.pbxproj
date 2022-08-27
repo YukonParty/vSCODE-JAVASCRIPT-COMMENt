@@ -258,3 +258,6 @@
 				SDKROOT = macosx;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
+			name = Release;
+		};
+		61FF09A01F73262A007E7DD8 /* Debug */ = {
