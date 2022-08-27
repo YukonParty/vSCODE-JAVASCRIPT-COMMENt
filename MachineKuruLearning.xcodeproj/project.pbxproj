@@ -270,3 +270,4 @@
 				DEVELOPMENT_TEAM = TFF2HTL4NS;
 				INFOPLIST_FILE = MachineKuruLearning/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Talaiot.MachineKuruLearning;
