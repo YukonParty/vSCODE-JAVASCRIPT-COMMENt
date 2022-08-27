@@ -275,3 +275,7 @@
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
+		};
+		61FF09A11F73262A007E7DD8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
