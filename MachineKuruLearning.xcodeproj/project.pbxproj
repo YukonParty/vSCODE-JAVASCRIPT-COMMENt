@@ -291,3 +291,5 @@
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
+		};
+/* End XCBuildConfiguration section */
