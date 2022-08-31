@@ -303,3 +303,6 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		61FF099F1F73262A007E7DD8 /* Build configuration list for PBXNativeTarget "MachineKuruLearning" */ = {
+			isa = XCConfigurationList;
