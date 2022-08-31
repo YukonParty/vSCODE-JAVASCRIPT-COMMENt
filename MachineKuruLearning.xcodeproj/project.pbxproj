@@ -293,3 +293,13 @@
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		61FF098A1F73262A007E7DD8 /* Build configuration list for PBXProject "MachineKuruLearning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61FF099D1F73262A007E7DD8 /* Debug */,
+				61FF099E1F73262A007E7DD8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
