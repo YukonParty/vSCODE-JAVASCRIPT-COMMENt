@@ -306,3 +306,7 @@
 		};
 		61FF099F1F73262A007E7DD8 /* Build configuration list for PBXNativeTarget "MachineKuruLearning" */ = {
 			isa = XCConfigurationList;
+			buildConfigurations = (
+				61FF09A01F73262A007E7DD8 /* Debug */,
+				61FF09A11F73262A007E7DD8 /* Release */,
+			);
