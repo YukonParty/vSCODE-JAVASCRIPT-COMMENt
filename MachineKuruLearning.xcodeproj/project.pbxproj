@@ -310,3 +310,5 @@
 				61FF09A01F73262A007E7DD8 /* Debug */,
 				61FF09A11F73262A007E7DD8 /* Release */,
 			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
